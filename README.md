@@ -7,7 +7,7 @@ Installation
 
 To install and run this application, simply clone this repository to your local machine:
 
-`git clone https://github.com/username/repo.git`
+`git clone https://github.com/charlespalmerbf/javascript-snake-application.git`
 
 Next, open the `index.html` file in your web browser to start playing the game.
 
