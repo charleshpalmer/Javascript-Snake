@@ -7,8 +7,6 @@ Installation
 
 To install and run this application, simply clone this repository to your local machine:
 
-bashCopy code
-
 `git clone https://github.com/username/repo.git`
 
 Next, open the `index.html` file in your web browser to start playing the game.
